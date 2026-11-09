@@ -72,29 +72,26 @@ These forecasts assume constant monthly savings and exclude interest, inflation 
 - User-defined financial inputs
 - Automated financial reporting
 - Additional financial forecasting models
-
-  
-## Project Visualisations
-
-The following graphs were generated using MATLAB.
-
-### 1. Monthly Income vs Expenses
-![Monthly Income vs Expenses](figures/income_vs_expenses.png)
-
-### 2. Cumulative Savings Growth
-![Cumulative Savings Growth](figures/cumulative_savings.png)
-
-### 3. Monthly Savings Rates
-![Monthly Savings Rates](figures/monthly_savings_rates.png)
-
-### 4. Savings Forecast
-![Projected Savings Growth](figures/savings_forecast.png)
-
-### 5. Savings Scenario Comparison
-![Savings Scenario Comparison](figures/savings_scenario_comparison.png)
-
 - Interactive user interface
 - More advanced financial data analysis
+
+
+## Project Visualisations
+
+### 1. Monthly Income vs Expenses
+![Monthly Income vs Expenses](income_vs_expenses.png)
+
+### 2. Cumulative Savings Growth
+![Cumulative Savings Growth](cumulative_savings.png)
+
+### 3. Monthly Savings Rates
+![Monthly Savings Rates](monthly_savings_rates.png)
+
+### 4. Savings Forecast
+![Projected Savings Growth](savings_forecast.png)
+
+### 5. Savings Scenario Comparison
+![Savings Scenario Comparison](savings_scenario_comparison.png)
 
 ## Disclaimer
 
